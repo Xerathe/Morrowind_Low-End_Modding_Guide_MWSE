@@ -1,12 +1,12 @@
 # Morrowind_Advanced
 Essentially, it is my modpack for Morrowind with all the necessary links to Nexus Mods
 
-Downlaod mods with [insert your preferred mod organizer]
-Register BSAs
-Fix all masters in Wrye Mash
-Merge Lists in Wrye Mash
-Configure the load order in MLOX
-Enjoy
+- Download mods with [insert your preferred mod organizer]
+- Register BSAs
+- Fix all masters in Wrye Mash
+- Merge Lists in Wrye Mash
+- Configure the load order in MLOX
+- Enjoy
 
 Base:
 1. MCP (https://www.nexusmods.com/morrowind/mods/19510)
