@@ -16,7 +16,7 @@ Instructions:
 
 Base:
 1. MCP (https://www.nexusmods.com/morrowind/mods/19510)
-2. Wrye Mash (https://www.nexusmods.com/morrowind/mods/27588) --> exe version (https://www.nexusmods.com/morrowind/mods/45439)
+2. Wrye Mash (https://www.nexusmods.com/morrowind/mods/27588) OR .exe version (https://www.nexusmods.com/morrowind/mods/45439)
 3. mlox (https://www.nexusmods.com/morrowind/mods/43001)
 4. MGE XE (https://www.nexusmods.com/morrowind/mods/41102)
 5. Better Dialogue Font (https://www.nexusmods.com/morrowind/mods/36873)
