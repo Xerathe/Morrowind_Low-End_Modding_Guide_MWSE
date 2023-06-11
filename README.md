@@ -1,9 +1,15 @@
 # Morrowind_Advanced
-Essentially, it is my modpack for Morrowind with all the necessary links to Nexus Mods
+A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods. Designed to run on my low-end laptop (so no graphical mods).
+My laptop specs:
+- Intel Core i3-6006U 2GHz
+- Intel HD Graphics 520 (Skylake-U GT2f) 1Gb VRAM (don't know why it says 1Gb though, as it more likely to be around 128Mb)
+- 20Gb RAM
 
+Instructions:
 - Download mods with [insert your preferred mod organizer]
 - Register BSAs
 - Fix all masters in Wrye Mash
+- Copy Mashed Lists from WryeMash to Morrowind/Data Files
 - Merge Lists in Wrye Mash
 - Configure the load order in MLOX
 - Enjoy
@@ -135,7 +141,7 @@ Quests:
 6. Astrologian's Guild (https://www.nexusmods.com/morrowind/mods/51216)
 7. Of Eggs and Dwarves - Gnisis Eggmine and Bethamez Overhaul (https://www.nexusmods.com/morrowind/mods/51171)
 8. Welcome to the Arena (https://www.nexusmods.com/morrowind/mods/22002)
-9. Main Quest Enhancers (https://www.nexusmods.com/morrowind/mods/41337) *Checking
+9. Main Quest Enhancers (http://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=72&Itemid=50) *Nexus version is older and MLOX will notify you about this update
 10. Thieves' Guild Overhaul (https://www.nexusmods.com/morrowind/mods/49944)
 11. Fighters Guild Improved (https://www.nexusmods.com/morrowind/mods/51409)
 12. Imperial Legion Expansion (https://www.nexusmods.com/morrowind/mods/44469)
