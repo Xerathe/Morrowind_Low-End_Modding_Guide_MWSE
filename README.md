@@ -48,7 +48,7 @@ Base:
 31. Magical Missions (https://www.nexusmods.com/morrowind/mods/38773)
 32. Mage Robes (https://www.nexusmods.com/morrowind/mods/45739)
 33. Repopulated Morrowind (https://www.nexusmods.com/morrowind/mods/51174)
-34. Friends and Foes (https://www.nexusmods.com/morrowind/mods/49251)
+34. Friends and Frens (https://www.nexusmods.com/morrowind/mods/52763)
 35. Taddeus' Foods of Tamriel (https://www.nexusmods.com/morrowind/mods/49388)
 36. Lucky Coins (https://www.nexusmods.com/morrowind/mods/44324)
 37. The Assassin's Arsenal (https://www.nexusmods.com/morrowind/mods/49746)
@@ -161,6 +161,7 @@ Quests:
 19. Immersive Madness (https://www.nexusmods.com/morrowind/mods/44983)
 20. Illuminated Order (https://www.nexusmods.com/morrowind/mods/42658)
 21. Main Quest Overhaul (https://www.nexusmods.com/morrowind/mods/46913)
+22. Temple Master (https://www.nexusmods.com/morrowind/mods/52749)
 
 Character Progression (CHOOSE ONE):
 1. Class-Conscious Character Progression (CCCP) (https://www.nexusmods.com/morrowind/mods/48110)
@@ -207,3 +208,4 @@ Optional Misc:
 22. MWSE Clock Block (https://www.nexusmods.com/morrowind/mods/46292)
 23. Kezyma's UI Remastered (https://www.nexusmods.com/morrowind/mods/48987)
 24. Ownership Indicator (https://www.nexusmods.com/morrowind/mods/45940)
+25. Spellscribe (https://www.nexusmods.com/morrowind/mods/52809)
