@@ -1,4 +1,4 @@
-# Morrowind_Advanced
+# Morrowind_Low-End_Modding_Guide
 A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods. Designed to run on my low-end laptop (so no graphical mods).
 My laptop specs:
 - Intel Core i3-6006U 2GHz
