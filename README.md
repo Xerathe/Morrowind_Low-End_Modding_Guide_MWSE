@@ -116,7 +116,7 @@ Big Mesh Changes / Additions:
 2. OAAB_Data (https://www.nexusmods.com/morrowind/mods/49042)
 3. Tamriel Rebuilt (https://www.nexusmods.com/morrowind/mods/42145)
 4. Solstheim - Tomb of the Snow Prince (https://www.nexusmods.com/morrowind/mods/46810)
-5. Guilds (https://www.nexusmods.com/morrowind/mods/49214)
+5. Tamriel_Data Graveyard - Deprecations un-deprecated (https://www.nexusmods.com/morrowind/mods/52000)
 6. OAAB Shipwrecks (https://www.nexusmods.com/morrowind/mods/51364)
 7. Ald'ruhn (https://www.nexusmods.com/morrowind/mods/50120)
 8. Balmora (https://www.nexusmods.com/morrowind/mods/51011)
@@ -141,6 +141,10 @@ Big Mesh Changes / Additions:
 27. Suran Underworld 3 (https://www.nexusmods.com/morrowind/mods/40299)
 28. Suran Underworld V3 Corrections and Fixes (https://www.nexusmods.com/morrowind/mods/44382)
 29. White Suran 2 - MD Edition (https://www.nexusmods.com/morrowind/mods/44153)
+30. Atmospheric South Wall Cornerclub (https://www.nexusmods.com/morrowind/mods/49229)
+31. Vivec Guild of Mages Expansion (https://www.nexusmods.com/morrowind/mods/44935)
+32. Caldera Mages Guild Expanded (https://www.nexusmods.com/morrowind/mods/45750)
+33. Ald-ruhn Mages guild expansion (https://www.nexusmods.com/morrowind/mods/48321)
 
 Quests:
 1. Rise of House Telvanni (https://www.nexusmods.com/morrowind/mods/27545)
