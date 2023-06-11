@@ -129,7 +129,7 @@ Big Mesh Changes / Additions:
 15. OAAB - Foyada Mamaea (https://www.nexusmods.com/morrowind/mods/46424)
 16. OAAB Grazelands (https://www.nexusmods.com/morrowind/mods/49075)
 17. OAAB Tel Mora (https://www.nexusmods.com/morrowind/mods/46177)
-18. Pelagiad (https://www.nexusmods.com/morrowind/mods/52188)
+18. Pelagiad - the cozy imperial town (https://www.nexusmods.com/morrowind/mods/48687)
 19. Seyda Neen (https://www.nexusmods.com/morrowind/mods/51000)
 20. The Ashlanders (https://www.nexusmods.com/morrowind/mods/49221)
 21. Vivec City (https://www.nexusmods.com/morrowind/mods/50111)
