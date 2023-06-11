@@ -157,19 +157,18 @@ Quests:
 7. Of Eggs and Dwarves - Gnisis Eggmine and Bethamez Overhaul (https://www.nexusmods.com/morrowind/mods/51171)
 8. Welcome to the Arena (https://www.nexusmods.com/morrowind/mods/22002)
 9. Main Quest Enhancers (http://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=72&Itemid=50) *Nexus version is older and MLOX will notify you about this update
-10. Thieves' Guild Overhaul (https://www.nexusmods.com/morrowind/mods/49944)
+10. Thieves' Guild Overhaul (https://www.nexusmods.com/morrowind/mods/49944) *Purist version
 11. Fighters Guild Improved (https://www.nexusmods.com/morrowind/mods/51409)
 12. Imperial Legion Expansion (https://www.nexusmods.com/morrowind/mods/44469)
 13. Morag Tong Polished (https://www.nexusmods.com/morrowind/mods/47041)
 14. More Exclusive Factions (https://www.nexusmods.com/morrowind/mods/49618)
 15. Religions Elaborated (https://www.nexusmods.com/morrowind/mods/47843)
 16. Imperial Factions (https://www.nexusmods.com/morrowind/mods/49855)
-17. Adventurers Guild (https://www.nexusmods.com/morrowind/mods/27696)
+17. Temple Master (https://www.nexusmods.com/morrowind/mods/52749)
 18. Andrano Ancestral Tomb Remastered (https://www.nexusmods.com/morrowind/mods/44672)
 19. Immersive Madness (https://www.nexusmods.com/morrowind/mods/44983)
 20. Illuminated Order (https://www.nexusmods.com/morrowind/mods/42658)
 21. Main Quest Overhaul (https://www.nexusmods.com/morrowind/mods/46913)
-22. Temple Master (https://www.nexusmods.com/morrowind/mods/52749)
 
 Character Progression (CHOOSE ONE):
 1. Class-Conscious Character Progression (CCCP) (https://www.nexusmods.com/morrowind/mods/48110)
