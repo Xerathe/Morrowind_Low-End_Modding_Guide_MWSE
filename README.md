@@ -155,7 +155,7 @@ Quests:
 20. Illuminated Order (https://www.nexusmods.com/morrowind/mods/42658)
 21. Main Quest Overhaul (https://www.nexusmods.com/morrowind/mods/46913)
 
-Character Progression:
+Character Progression (CHOOSE ONE):
 1. Class-Conscious Character Progression (CCCP) (https://www.nexusmods.com/morrowind/mods/48110)
   Requires:
   Quest Skill Reward Fix (https://www.nexusmods.com/morrowind/mods/48269)
