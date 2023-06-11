@@ -138,6 +138,8 @@ Big Mesh Changes / Additions:
 24. Ebonheart Underworks (https://www.nexusmods.com/morrowind/mods/47272)
 25. Majestic Ebonheart (https://www.nexusmods.com/morrowind/mods/48771)
 26. Sadrith Mora - Seat of Power of House Telvanni (https://www.nexusmods.com/morrowind/mods/48689)
+27. Suran Underworld 3 (https://www.nexusmods.com/morrowind/mods/40299)
+28. White Suran 2 - MD Edition (https://www.nexusmods.com/morrowind/mods/44153)
 
 Quests:
 1. Rise of House Telvanni (https://www.nexusmods.com/morrowind/mods/27545)
