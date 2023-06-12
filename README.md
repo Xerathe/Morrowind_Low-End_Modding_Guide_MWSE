@@ -119,7 +119,7 @@ Big Mesh Changes / Additions:
 5. Tamriel_Data Graveyard - Deprecations un-deprecated (https://www.nexusmods.com/morrowind/mods/52000)
 6. OAAB Shipwrecks (https://www.nexusmods.com/morrowind/mods/51364)
 7. Ald'ruhn (https://www.nexusmods.com/morrowind/mods/50120)
-8. Balmora Expansion -Re-Upload- (https://www.nexusmods.com/morrowind/mods/42342)
+8. Balmora Expansion -Re-Upload- (https://www.nexusmods.com/morrowind/mods/42342) *Load it after Balmora Underworld if you experience terrain glitches
 9. Balmora Underworld (https://www.nexusmods.com/morrowind/mods/42448?tab=description)
 10. Austere Caldera Enhancement (https://www.nexusmods.com/morrowind/mods/52590) *Not available for now* OR Caldera (https://www.nexusmods.com/morrowind/mods/50314)
 11. Caldera Mine Expanded (https://www.nexusmods.com/morrowind/mods/45194)
