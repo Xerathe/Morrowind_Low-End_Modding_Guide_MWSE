@@ -10,8 +10,8 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 - Download mods with [insert your preferred mod organizer] **I prefer Mod Organizer 2 (https://www.modorganizer.org/)*
 - Register BSAs
 - Fix all masters in Wrye Mash
-- Copy Mashed Lists from WryeMash to Morrowind/Data Files
-- Merge Lists in Wrye Mash
+- Copy Mashed Lists from Morrwoind/Mopy/Extras to Morrowind/Data Files (or just find the option in Mash to create it automatically)
+- Merge Lists in Wrye Mash (RMB on Mashed/Merge List -> Import -> Merge Lists)
 - Configure the load order in MLOX
 - Enjoy
 
