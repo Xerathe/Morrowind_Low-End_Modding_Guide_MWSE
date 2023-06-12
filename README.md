@@ -1,11 +1,11 @@
 # Morrowind_Low-End_Modding_Guide
 A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods. Designed to run on my low-end laptop (so no graphical mods).
-My laptop specs:
+###My laptop specs:
 - Intel Core i3-6006U 2GHz
 - Intel HD Graphics 520 (Skylake-U GT2f) 1Gb VRAM (don't know why it says 1Gb though, as it more likely to be around 128Mb)
 - 20Gb RAM
 
-Instructions:
+###Instructions:
 - Download mods with [insert your preferred mod organizer]
 - Register BSAs
 - Fix all masters in Wrye Mash
@@ -14,7 +14,7 @@ Instructions:
 - Configure the load order in MLOX
 - Enjoy
 
-Base:
+##Base:
 1. MCP (https://www.nexusmods.com/morrowind/mods/19510)
 2. Wrye Mash (https://www.nexusmods.com/morrowind/mods/27588) OR .exe version (https://www.nexusmods.com/morrowind/mods/45439)
 3. mlox (https://www.nexusmods.com/morrowind/mods/43001)
@@ -111,7 +111,7 @@ Base:
 94. Kill Command (https://www.nexusmods.com/morrowind/mods/46723)
 95. Projectile Overhaul - Modular (https://www.nexusmods.com/morrowind/mods/43195)
 
-Big Mesh Changes / Additions (IF you experience any terrain issues, like clipping, place the .esp/.esm at the end of load order (but before the Mashed List)):
+##Big Mesh Changes / Additions (IF you experience any terrain issues, like clipping, place the .esp/.esm at the end of load order (but before the Mashed List)):
 1. Tamriel_Data (https://www.nexusmods.com/morrowind/mods/44537)  *Don't forget to register .bsa's
 2. OAAB_Data (https://www.nexusmods.com/morrowind/mods/49042)
 3. Tamriel Rebuilt (https://www.nexusmods.com/morrowind/mods/42145)
@@ -121,7 +121,7 @@ Big Mesh Changes / Additions (IF you experience any terrain issues, like clippin
 7. Ald'ruhn (https://www.nexusmods.com/morrowind/mods/50120)
 8. Balmora Expansion -Re-Upload- (https://www.nexusmods.com/morrowind/mods/42342)
 9. Balmora Underworld (https://www.nexusmods.com/morrowind/mods/42448?tab=description) *You may want to do some tweaking with hatch positions in Balmora Cell in the Construction Set due to the additions from Main Quest Enchancers (Quests: 9)
-10. Austere Caldera Enhancement (https://www.nexusmods.com/morrowind/mods/52590) *Not available for now* OR Caldera (https://www.nexusmods.com/morrowind/mods/50314)
+10. Austere Caldera Enhancement (https://www.nexusmods.com/morrowind/mods/52590) ***Not available for now*** OR Caldera (https://www.nexusmods.com/morrowind/mods/50314)
 11. Caldera Mine Expanded (https://www.nexusmods.com/morrowind/mods/45194)
 12. Nordic Dagon Fel (https://www.nexusmods.com/morrowind/mods/49603)
 13. A new Windmill for Pelagiad (https://www.nexusmods.com/morrowind/mods/50316)
@@ -147,7 +147,7 @@ Big Mesh Changes / Additions (IF you experience any terrain issues, like clippin
 33. Caldera Mages Guild Expanded (https://www.nexusmods.com/morrowind/mods/45750)
 34. Ald-ruhn Mages guild expansion (https://www.nexusmods.com/morrowind/mods/48321)
 
-Quests:
+##Quests:
 1. Rise of House Telvanni (https://www.nexusmods.com/morrowind/mods/27545)
 2. Rise of House Telvanni - 2.0 (https://www.nexusmods.com/morrowind/mods/48225)
 3. The Rise of the Tribe Unmourned (https://www.nexusmods.com/morrowind/mods/45165)
@@ -170,7 +170,7 @@ Quests:
 20. Illuminated Order (https://www.nexusmods.com/morrowind/mods/42658)
 21. Main Quest Overhaul (https://www.nexusmods.com/morrowind/mods/46913)
 
-Character Progression (CHOOSE ONE):
+##Character Progression (CHOOSE ONE):
 1. Class-Conscious Character Progression (CCCP) (https://www.nexusmods.com/morrowind/mods/48110)
   Requires:
   Quest Skill Reward Fix (https://www.nexusmods.com/morrowind/mods/48269)
@@ -181,7 +181,7 @@ Character Progression (CHOOSE ONE):
 3. Madd Leveler (https://www.nexusmods.com/morrowind/mods/45865)
 4. MULE - Mort's Ultimate Leveling Experience (https://www.nexusmods.com/morrowind/mods/47452)
 
-Optional Balancing:
+##Optional Balancing:
 1. Slower Leveling Speed (an ideal Tamriel Rebuilt add-on) (https://www.nexusmods.com/morrowind/mods/50262)
 2. Morrowind Anti-Cheese (https://www.nexusmods.com/morrowind/mods/47305)
 3. MDMD - More Deadly Morrowind Denizens (https://www.nexusmods.com/morrowind/mods/48745)
@@ -190,7 +190,7 @@ Optional Balancing:
 6. Ownership Overhaul (https://www.nexusmods.com/morrowind/mods/48051)
 7. Umbra- Blademaster (https://www.nexusmods.com/morrowind/mods/43275)
 
-Optional Misc:
+##Optional Misc:
 1. Fair Magicka Regen v2B (https://www.nexusmods.com/morrowind/mods/39350) *Obsolete with CCCP
 2. Class Skill Limit (https://www.nexusmods.com/morrowind/mods/48989)
 3. Better Governing Attributes (https://www.nexusmods.com/morrowind/mods/43017)
