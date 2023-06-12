@@ -173,12 +173,12 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 
 ## Character Progression (CHOOSE ONE):
 1. Class-Conscious Character Progression (CCCP) (https://www.nexusmods.com/morrowind/mods/48110)
-    Requires:
-    Quest Skill Reward Fix (https://www.nexusmods.com/morrowind/mods/48269)
-    Attribute Effect Tweaks (https://www.nexusmods.com/morrowind/mods/51161)
+   - Requires:
+   - Quest Skill Reward Fix (https://www.nexusmods.com/morrowind/mods/48269)
+   - Attribute Effect Tweaks (https://www.nexusmods.com/morrowind/mods/51161)
 2. Kirbonated Character Progression (https://www.nexusmods.com/morrowind/mods/50702)
-    Requires:
-    MWSE Perk Framework (https://www.nexusmods.com/morrowind/mods/51448)
+   - Requires:
+   - MWSE Perk Framework (https://www.nexusmods.com/morrowind/mods/51448)
 3. Madd Leveler (https://www.nexusmods.com/morrowind/mods/45865)
 4. MULE - Mort's Ultimate Leveling Experience (https://www.nexusmods.com/morrowind/mods/47452)
 
