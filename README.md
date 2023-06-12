@@ -187,7 +187,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 2. Morrowind Anti-Cheese (https://www.nexusmods.com/morrowind/mods/47305)
 3. MDMD - More Deadly Morrowind Denizens (https://www.nexusmods.com/morrowind/mods/48745)
 4. Real Disposition (https://www.nexusmods.com/morrowind/mods/51427)
-5. Alchemical Hustle (https://www.nexusmods.com/morrowind/mods/51050)
+5. Alchemical Hustle (https://www.nexusmods.com/morrowind/mods/51050) **Will show an error with a script -> DO NOT activate toxicity .esp if installing modular*
 6. Ownership Overhaul (https://www.nexusmods.com/morrowind/mods/48051)
 7. Umbra- Blademaster (https://www.nexusmods.com/morrowind/mods/43275)
 
