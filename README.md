@@ -120,7 +120,7 @@ Big Mesh Changes / Additions (IF you experience any terrain issues, like clippin
 6. OAAB Shipwrecks (https://www.nexusmods.com/morrowind/mods/51364)
 7. Ald'ruhn (https://www.nexusmods.com/morrowind/mods/50120)
 8. Balmora Expansion -Re-Upload- (https://www.nexusmods.com/morrowind/mods/42342)
-9. Balmora Underworld (https://www.nexusmods.com/morrowind/mods/42448?tab=description) *You may want to do some tweaking with latch positions in the Construction Set due to the additions from Main Quest Enchancers (Quests: 9)
+9. Balmora Underworld (https://www.nexusmods.com/morrowind/mods/42448?tab=description) *You may want to do some tweaking with hatch positions in the Construction Set due to the additions from Main Quest Enchancers (Quests: 9)
 10. Austere Caldera Enhancement (https://www.nexusmods.com/morrowind/mods/52590) *Not available for now* OR Caldera (https://www.nexusmods.com/morrowind/mods/50314)
 11. Caldera Mine Expanded (https://www.nexusmods.com/morrowind/mods/45194)
 12. Nordic Dagon Fel (https://www.nexusmods.com/morrowind/mods/49603)
