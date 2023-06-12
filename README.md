@@ -183,7 +183,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 4. MULE - Mort's Ultimate Leveling Experience (https://www.nexusmods.com/morrowind/mods/47452)
 
 ## Optional Balancing:
-1. Slower Leveling Speed (an ideal Tamriel Rebuilt add-on) (https://www.nexusmods.com/morrowind/mods/50262)
+1. Slower Leveling Speed (an ideal Tamriel Rebuilt add-on) (https://www.nexusmods.com/morrowind/mods/50262) **Obsolete with CCCP*
 2. Morrowind Anti-Cheese (https://www.nexusmods.com/morrowind/mods/47305)
 3. MDMD - More Deadly Morrowind Denizens (https://www.nexusmods.com/morrowind/mods/48745)
 4. Real Disposition (https://www.nexusmods.com/morrowind/mods/51427)
