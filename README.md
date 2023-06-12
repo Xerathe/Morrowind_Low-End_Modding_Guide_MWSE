@@ -8,7 +8,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 
 ### Instructions:
 - Download mods with [insert your preferred mod organizer] **I prefer Mod Organizer 2 (https://www.modorganizer.org/)*
-- Register BSAs
+- Register Tamriel_Data BSAs
 - Fix all masters in Wrye Mash
 - Copy Mashed Lists from Morrwoind/Mopy/Extras to Morrowind/Data Files (or just find the option in Mash to create it automatically)
 - Merge Lists in Wrye Mash (RMB on Mashed/Merge List -> Import -> Merge Lists)
