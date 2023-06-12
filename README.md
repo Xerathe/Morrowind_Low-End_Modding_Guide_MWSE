@@ -7,7 +7,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 - 20Gb RAM
 
 ### Instructions:
-- Download mods with [insert your preferred mod organizer]
+- Download mods with [insert your preferred mod organizer] **I prefer Mod Organizer 2 (https://www.modorganizer.org/)*
 - Register BSAs
 - Fix all masters in Wrye Mash
 - Copy Mashed Lists from WryeMash to Morrowind/Data Files
