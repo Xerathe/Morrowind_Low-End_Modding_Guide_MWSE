@@ -121,7 +121,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 6. OAAB Shipwrecks (https://www.nexusmods.com/morrowind/mods/51364)
 7. Ald'ruhn (https://www.nexusmods.com/morrowind/mods/50120)
 8. Balmora Expansion -Re-Upload- (https://www.nexusmods.com/morrowind/mods/42342)
-9. Balmora Underworld (https://www.nexusmods.com/morrowind/mods/42448?tab=description) *You may want to do some tweaking with hatch positions in Balmora Cell in the Construction Set due to the additions from Main Quest Enchancers (Quests: 9)
+9. Balmora Underworld (https://www.nexusmods.com/morrowind/mods/42448?tab=description) **You may want to do some tweaking with hatch positions in Balmora Cell in the Construction Set due to the additions from Main Quest Enchancers (Quests: 9)*
 10. Austere Caldera Enhancement (https://www.nexusmods.com/morrowind/mods/52590) ***Not available for now*** OR Caldera (https://www.nexusmods.com/morrowind/mods/50314)
 11. Caldera Mine Expanded (https://www.nexusmods.com/morrowind/mods/45194)
 12. Nordic Dagon Fel (https://www.nexusmods.com/morrowind/mods/49603)
@@ -157,8 +157,8 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 6. Astrologian's Guild (https://www.nexusmods.com/morrowind/mods/51216)
 7. Of Eggs and Dwarves - Gnisis Eggmine and Bethamez Overhaul (https://www.nexusmods.com/morrowind/mods/51171)
 8. Welcome to the Arena (https://www.nexusmods.com/morrowind/mods/22002)
-9. Main Quest Enhancers (http://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=72&Itemid=50) *Nexus version is older and MLOX will notify you about this update
-10. Thieves' Guild Overhaul (https://www.nexusmods.com/morrowind/mods/49944) *Purist version
+9. Main Quest Enhancers (http://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=72&Itemid=50) **Nexus version is older and MLOX will notify you about this update*
+10. Thieves' Guild Overhaul (https://www.nexusmods.com/morrowind/mods/49944) **Purist version*
 11. Fighters Guild Improved (https://www.nexusmods.com/morrowind/mods/51409)
 12. Imperial Legion Expansion (https://www.nexusmods.com/morrowind/mods/44469)
 13. Morag Tong Polished (https://www.nexusmods.com/morrowind/mods/47041)
@@ -192,7 +192,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 7. Umbra- Blademaster (https://www.nexusmods.com/morrowind/mods/43275)
 
 ## Optional Misc:
-1. Fair Magicka Regen v2B (https://www.nexusmods.com/morrowind/mods/39350) *Obsolete with CCCP
+1. Fair Magicka Regen v2B (https://www.nexusmods.com/morrowind/mods/39350) **Obsolete with CCCP*
 2. Class Skill Limit (https://www.nexusmods.com/morrowind/mods/48989)
 3. Better Governing Attributes (https://www.nexusmods.com/morrowind/mods/43017)
 4. Speed and Stamina (https://www.nexusmods.com/morrowind/mods/42190) OR Run Faster - Faster Running Speed (https://www.nexusmods.com/morrowind/mods/42796)
