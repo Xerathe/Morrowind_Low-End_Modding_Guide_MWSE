@@ -111,6 +111,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 93. Master Index Redux (https://www.nexusmods.com/morrowind/mods/48977)
 94. Kill Command (https://www.nexusmods.com/morrowind/mods/46723)
 95. Projectile Overhaul - Modular (https://www.nexusmods.com/morrowind/mods/43195)
+96. Perfect Placement (https://www.nexusmods.com/morrowind/mods/46562)
 
 ## Big Mesh Changes / Additions (IF you experience any terrain issues, like clipping, place the .esp/.esm at the end of load order (but before the Mashed List)):
 1. Tamriel_Data (https://www.nexusmods.com/morrowind/mods/44537) **Don't forget to register .BSAs*
