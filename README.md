@@ -219,3 +219,4 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 24. Kezyma's UI Remastered (https://www.nexusmods.com/morrowind/mods/48987)
 25. Ownership Indicator (https://www.nexusmods.com/morrowind/mods/45940)
 26. Spellscribe (https://www.nexusmods.com/morrowind/mods/52809)
+27. Next Generation Combat (https://www.nexusmods.com/morrowind/mods/46993) **May (probably will) not work with some other mods affecting armor/weapon stats*
