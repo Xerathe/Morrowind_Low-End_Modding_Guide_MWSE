@@ -191,7 +191,6 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 5. Alchemical Hustle (https://www.nexusmods.com/morrowind/mods/51050) **Will show an error with a script -> DO NOT activate any toxicity .esp if installing modular*
 6. Ownership Overhaul (https://www.nexusmods.com/morrowind/mods/48051)
 7. Umbra- Blademaster (https://www.nexusmods.com/morrowind/mods/43275)
-8. Better Balanced Combat (https://www.nexusmods.com/morrowind/mods/46596)
 
 ## Optional Misc:
 1. Fair Magicka Regen v2B (https://www.nexusmods.com/morrowind/mods/39350) **Obsolete with CCCP*
