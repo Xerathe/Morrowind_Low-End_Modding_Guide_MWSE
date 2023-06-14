@@ -121,7 +121,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 5. Tamriel_Data Graveyard - Deprecations un-deprecated (https://www.nexusmods.com/morrowind/mods/52000)
 6. OAAB Shipwrecks (https://www.nexusmods.com/morrowind/mods/51364)
 7. Ald'ruhn (https://www.nexusmods.com/morrowind/mods/50120)
-8. Balmora Expansion -Re-Upload- (https://www.nexusmods.com/morrowind/mods/42342)
+8. Balmora Expansion Improved (https://www.nexusmods.com/morrowind/mods/44659)
 9. Balmora Underworld (https://www.nexusmods.com/morrowind/mods/42448?tab=description) **You may want to do some tweaking with hatch positions in Balmora Cell in the Construction Set due to the additions from Main Quest Enchancers (Quests: 9)*
 10. Austere Caldera Enhancement (https://www.nexusmods.com/morrowind/mods/52590) ***Not available for now*** OR Caldera (https://www.nexusmods.com/morrowind/mods/50314)
 11. Caldera Mine Expanded (https://www.nexusmods.com/morrowind/mods/45194)
@@ -199,7 +199,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 2. Class Skill Limit (https://www.nexusmods.com/morrowind/mods/48989)
 3. Class Conscious (https://www.nexusmods.com/morrowind/mods/46902) **Complements CCCP*
 4. Better Governing Attributes (https://www.nexusmods.com/morrowind/mods/43017)
-5. Speed and Stamina (https://www.nexusmods.com/morrowind/mods/42190) OR Run Faster - Faster Running Speed (https://www.nexusmods.com/morrowind/mods/42796)
+5. Speed and Stamina (https://www.nexusmods.com/morrowind/mods/42190) **Feels really OP* OR Run Faster - Faster Running Speed (https://www.nexusmods.com/morrowind/mods/42796)
 6. Better Fatigue Usage (https://www.nexusmods.com/morrowind/mods/43036)
 7. Speechcraft Rebalance (https://www.nexusmods.com/morrowind/mods/43113)
 8. Corpus Natives (https://www.nexusmods.com/morrowind/mods/45674?tab=files)
