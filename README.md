@@ -148,6 +148,8 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 32. Vivec Guild of Mages Expansion (https://www.nexusmods.com/morrowind/mods/44935)
 33. Caldera Mages Guild Expanded (https://www.nexusmods.com/morrowind/mods/45750)
 34. Ald-ruhn Mages guild expansion (https://www.nexusmods.com/morrowind/mods/48321)
+35. Ald'ruhn-under-Skar (https://www.nexusmods.com/morrowind/mods/50332)
+36. Molag Mar (https://www.nexusmods.com/morrowind/mods/49005)
 
 ## Quests:
 1. Rise of House Telvanni (https://www.nexusmods.com/morrowind/mods/27545)
