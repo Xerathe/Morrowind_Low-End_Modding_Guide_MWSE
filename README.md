@@ -49,7 +49,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 31. Magical Missions (https://www.nexusmods.com/morrowind/mods/38773)
 32. Mage Robes (https://www.nexusmods.com/morrowind/mods/45739)
 33. Repopulated Morrowind (https://www.nexusmods.com/morrowind/mods/51174)
-34. Friends and Frens (https://www.nexusmods.com/morrowind/mods/52763)
+34. Friends and Frens (https://www.nexusmods.com/morrowind/mods/52763) **Is still being worked on, so there may be some errors ocurring due to some textures not found*
 35. Taddeus' Foods of Tamriel (https://www.nexusmods.com/morrowind/mods/49388)
 36. Lucky Coins (https://www.nexusmods.com/morrowind/mods/44324)
 37. The Assassin's Arsenal (https://www.nexusmods.com/morrowind/mods/49746)
@@ -112,6 +112,8 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 94. Kill Command (https://www.nexusmods.com/morrowind/mods/46723)
 95. Projectile Overhaul - Modular (https://www.nexusmods.com/morrowind/mods/43195)
 96. Perfect Placement (https://www.nexusmods.com/morrowind/mods/46562)
+97. Smart Companions (https://www.nexusmods.com/morrowind/mods/49848)
+98. Right Click Menu Exit (https://www.nexusmods.com/morrowind/mods/48458)
 
 ## Big Mesh Changes / Additions (IF you experience any terrain issues, like clipping, place the .esp/.esm at the end of load order (but before the Mashed List)):
 1. Tamriel_Data (https://www.nexusmods.com/morrowind/mods/44537) **Don't forget to register .BSAs*
@@ -227,3 +229,5 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 25. Ownership Indicator (https://www.nexusmods.com/morrowind/mods/45940)
 26. Spellscribe (https://www.nexusmods.com/morrowind/mods/52809)
 27. Next Generation Combat (https://www.nexusmods.com/morrowind/mods/46993) **May (probably will) not work with some other mods affecting armor/weapon stats*
+28. More Detailed Companion HealthBars MWSE Lua Script (https://www.nexusmods.com/morrowind/mods/51389)
+29. Companion Combat Communication (https://www.nexusmods.com/morrowind/mods/48752)
