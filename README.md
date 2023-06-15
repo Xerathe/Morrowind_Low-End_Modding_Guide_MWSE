@@ -152,7 +152,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 36. Molag Mar (https://www.nexusmods.com/morrowind/mods/49005)
 37. Hla Oad (https://www.nexusmods.com/morrowind/mods/49035)
 38. Redoran Council Overhall (https://www.nexusmods.com/morrowind/mods/49817)
-39. Heart of the Velothi - Gnisis (https://www.nexusmods.com/morrowind/mods/47978)
+39. Stav's Boxes - Gnisis Minaret (https://www.nexusmods.com/morrowind/mods/43237)
 
 ## Quests:
 1. Rise of House Telvanni (https://www.nexusmods.com/morrowind/mods/27545)
