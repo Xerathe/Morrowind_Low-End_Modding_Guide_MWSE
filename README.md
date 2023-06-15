@@ -150,6 +150,9 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 34. Ald-ruhn Mages guild expansion (https://www.nexusmods.com/morrowind/mods/48321)
 35. Ald'ruhn-under-Skar (https://www.nexusmods.com/morrowind/mods/50332)
 36. Molag Mar (https://www.nexusmods.com/morrowind/mods/49005)
+37. Hla Oad (https://www.nexusmods.com/morrowind/mods/49035)
+38. Redoran Council Overhall (https://www.nexusmods.com/morrowind/mods/49817)
+39. Heart of the Velothi - Gnisis (https://www.nexusmods.com/morrowind/mods/47978)
 
 ## Quests:
 1. Rise of House Telvanni (https://www.nexusmods.com/morrowind/mods/27545)
