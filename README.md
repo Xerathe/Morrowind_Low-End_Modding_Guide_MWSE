@@ -55,7 +55,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 37. The Assassin's Arsenal (https://www.nexusmods.com/morrowind/mods/49746)
 38. H.E.L.L.U.V.A armours only (https://www.nexusmods.com/morrowind/mods/47573)
 39. Shinies (https://www.nexusmods.com/morrowind/mods/48903)
-40. Advanced Alchemy (https://www.nexusmods.com/morrowind/mods/32628)
+40. Advanced Alchemy (https://www.nexusmods.com/morrowind/mods/32628) **May be obsolete with Poison Crafting (#57)*
 41. Skills Module (https://www.nexusmods.com/morrowind/mods/46034)
 42. The Crafting Framework (https://www.nexusmods.com/morrowind/mods/51009)
 43. Map and Compass (https://www.nexusmods.com/morrowind/mods/48455) AND Map Replacements for Maps and Compass Wagner Style - Brujoloco Edition (https://www.nexusmods.com/morrowind/mods/48460)
@@ -155,6 +155,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 37. Hla Oad (https://www.nexusmods.com/morrowind/mods/49035)
 38. Redoran Council Overhall (https://www.nexusmods.com/morrowind/mods/49817)
 39. Stav's Boxes - Gnisis Minaret (https://www.nexusmods.com/morrowind/mods/43237)
+40. Hlaalu Council Manor Overhaul (https://www.nexusmods.com/morrowind/mods/50164)
 
 ## Quests:
 1. Rise of House Telvanni (https://www.nexusmods.com/morrowind/mods/27545)
@@ -231,3 +232,4 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 27. Next Generation Combat (https://www.nexusmods.com/morrowind/mods/46993) **May (probably will) not work with some other mods affecting armor/weapon stats*
 28. More Detailed Companion HealthBars MWSE Lua Script (https://www.nexusmods.com/morrowind/mods/51389)
 29. Companion Combat Communication (https://www.nexusmods.com/morrowind/mods/48752)
+30. Faction Service (https://www.nexusmods.com/morrowind/mods/45196)
