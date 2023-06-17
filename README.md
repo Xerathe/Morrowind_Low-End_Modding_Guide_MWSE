@@ -237,6 +237,8 @@ IF you want more or less stable fps in the modded settlements, I strongly advise
 28. More Detailed Companion HealthBars MWSE Lua Script (https://www.nexusmods.com/morrowind/mods/51389)
 29. Companion Combat Communication (https://www.nexusmods.com/morrowind/mods/48752)
 30. Faction Service (https://www.nexusmods.com/morrowind/mods/45196)
+31. Mass Cure (https://www.nexusmods.com/morrowind/mods/49615)
+32. No More Friendly Fire (https://www.nexusmods.com/morrowind/mods/48801)
 
 ## TESIII Construction Set
 https://www.nexusmods.com/morrowind/mods/52712
