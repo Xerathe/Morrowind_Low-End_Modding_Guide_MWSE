@@ -9,9 +9,9 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 ### Instructions:
 - Download mods with [insert your preferred mod organizer] **I prefer Mod Organizer 2 (https://www.modorganizer.org/)*
 - Register Tamriel_Data BSAs
-- Fix all masters in Wrye Mash (Click on plugin -> click on red/yellow master -> click on save)
+- Fix all masters in Wrye Mash (Click on MODS tab -> click on each red/yellow plugin on the left -> click on one red/yellow master on the right bottom -> click on save)
 - Copy Mashed Lists from Morrwoind/Mopy/Extras to Morrowind/Data Files (or just find the option in Mash to create it automatically)
-- Merge Lists in Wrye Mash (RMB on Mashed/Merge List -> Import -> Merge Lists)
+- Merge Lists in Wrye Mash (RMB on Mashed Lists in active plugins/mods -> Import -> Merge Lists)
 - Configure the load order in MLOX
 - Enjoy
 
@@ -115,7 +115,10 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 97. Smart Companions (https://www.nexusmods.com/morrowind/mods/49848)
 98. Right Click Menu Exit (https://www.nexusmods.com/morrowind/mods/48458)
 
-## Big Mesh Changes / Additions (IF you experience any terrain issues, like clipping, place the .esp/.esm at the end of load order (but before the Mashed List)):
+## Big Mesh Changes / Additions:
+IF you experience any terrain issues, like clipping, place the .esp/.esm at the end of load order (but before the Mashed List))
+IF you want more or less stable fps in the modded settlements, I strongly advise to play without Distant Lands enabled in MGEXE (Base #4)
+
 1. Tamriel_Data (https://www.nexusmods.com/morrowind/mods/44537) **Don't forget to register .BSAs*
 2. OAAB_Data (https://www.nexusmods.com/morrowind/mods/49042)
 3. Tamriel Rebuilt (https://www.nexusmods.com/morrowind/mods/42145)
@@ -124,7 +127,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 6. OAAB Shipwrecks (https://www.nexusmods.com/morrowind/mods/51364)
 7. Ald'ruhn (https://www.nexusmods.com/morrowind/mods/50120)
 8. Balmora Expansion Improved (https://www.nexusmods.com/morrowind/mods/44659)
-9. Balmora Underworld (https://www.nexusmods.com/morrowind/mods/42448?tab=description) **You may want to do some tweaking with hatch positions in Balmora Cell in the Construction Set due to the additions from Main Quest Enchancers (Quests: 9)*
+9. Balmora Underworld (https://www.nexusmods.com/morrowind/mods/42448?tab=description) **You may want to do some tweaking with hatch positions in Balmora Cell in the Construction Set due to the additions from Main Quest Enchancers (Quests #9)*
 10. Austere Caldera Enhancement (https://www.nexusmods.com/morrowind/mods/52590) ***Not available for now*** OR Caldera (https://www.nexusmods.com/morrowind/mods/50314)
 11. Caldera Mine Expanded (https://www.nexusmods.com/morrowind/mods/45194)
 12. Nordic Dagon Fel (https://www.nexusmods.com/morrowind/mods/49603)
@@ -233,3 +236,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 28. More Detailed Companion HealthBars MWSE Lua Script (https://www.nexusmods.com/morrowind/mods/51389)
 29. Companion Combat Communication (https://www.nexusmods.com/morrowind/mods/48752)
 30. Faction Service (https://www.nexusmods.com/morrowind/mods/45196)
+
+## TESIII Construction Set
+https://www.nexusmods.com/morrowind/mods/52712
+Put in the main folder and launch through your mod manager
