@@ -117,6 +117,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 
 ## Big Mesh Changes / Additions:
 IF you experience any terrain issues, like clipping, place the .esp/.esm at the end of load order (but before the Mashed List))
+
 IF you want more or less stable fps in the modded settlements, I strongly advise to play without Distant Lands enabled in MGEXE (Base #4)
 
 1. Tamriel_Data (https://www.nexusmods.com/morrowind/mods/44537) **Don't forget to register .BSAs*
