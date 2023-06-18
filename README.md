@@ -84,7 +84,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 66. Predator Beast Races - Argonians and Khajiit Overhaul (https://www.nexusmods.com/morrowind/mods/48894)
 67. MM - Enhanced Detection (https://www.nexusmods.com/morrowind/mods/47480)
 68. MM - Enhanced Telekinesis (https://www.nexusmods.com/morrowind/mods/47534)
-69. MM - Enhanced Invisibility (https://www.nexusmods.com/morrowind/mods/47565)
+69. MM - Enhanced Invisibility (https://www.nexusmods.com/morrowind/mods/47565) **Shader*
 70. MM - Enhanced Light (https://www.nexusmods.com/morrowind/mods/47672)
 71. Djangos Dialogue 1.4 (https://www.nexusmods.com/morrowind/mods/47253)
 72. Great Service (https://www.nexusmods.com/morrowind/mods/47767)
@@ -245,7 +245,6 @@ IF you want more or less stable fps in the modded settlements, I strongly advise
 1. MGE XE Watercolor Shader (https://www.nexusmods.com/morrowind/mods/49473)
 2. Enhanced Water Shader for MGE XE (https://www.nexusmods.com/morrowind/mods/45432)
 3. Skoomaesthesia (https://www.nexusmods.com/morrowind/mods/49920)
-4. MM - Enhanced Invisibility (https://www.nexusmods.com/morrowind/mods/47565)
 
 ## TESIII Construction Set
 https://www.nexusmods.com/morrowind/mods/52712
