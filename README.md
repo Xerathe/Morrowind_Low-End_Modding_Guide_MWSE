@@ -1,4 +1,4 @@
-# Morrowind_Low-End_Modding_Guide
+# Morrowind_Low-End_Modding_Guide_MWSE
 A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods. Designed to run on my low-end laptop (so no graphical mods).
 
 ### My laptop specs:
