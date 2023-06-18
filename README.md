@@ -239,6 +239,13 @@ IF you want more or less stable fps in the modded settlements, I strongly advise
 30. Faction Service (https://www.nexusmods.com/morrowind/mods/45196)
 31. Mass Cure (https://www.nexusmods.com/morrowind/mods/49615)
 32. No More Friendly Fire (https://www.nexusmods.com/morrowind/mods/48801)
+33. Immersive Alcohol (https://www.nexusmods.com/morrowind/mods/45589)
+
+## Graphics / Shaders (IF you still want this):
+1. MGE XE Watercolor Shader (https://www.nexusmods.com/morrowind/mods/49473)
+2. Enhanced Water Shader for MGE XE (https://www.nexusmods.com/morrowind/mods/45432)
+3. Skoomaesthesia (https://www.nexusmods.com/morrowind/mods/49920)
+4. MM - Enhanced Invisibility (https://www.nexusmods.com/morrowind/mods/47565)
 
 ## TESIII Construction Set
 https://www.nexusmods.com/morrowind/mods/52712
