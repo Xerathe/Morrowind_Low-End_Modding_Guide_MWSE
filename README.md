@@ -205,15 +205,23 @@ IF you want more or less stable fps in the modded settlements, I strongly advise
 7. Umbra- Blademaster (https://www.nexusmods.com/morrowind/mods/43275)
 8. Silver Tongue (https://www.nexusmods.com/morrowind/mods/49086)
 9. Buying Game (https://www.nexusmods.com/morrowind/mods/50574)
+10. Speechcraft Rebalance (https://www.nexusmods.com/morrowind/mods/43113)
+11. Talking Matters (Speechcraft overhaul) (https://www.nexusmods.com/morrowind/mods/49089)
+12. Class Skill Limit (https://www.nexusmods.com/morrowind/mods/48989)
+13. Better Governing Attributes (https://www.nexusmods.com/morrowind/mods/43017)
+14. Marksman Rebalanced (https://www.nexusmods.com/morrowind/mods/46715) **Obsolete with NGC #15*
+15. Nimble Armor (https://www.nexusmods.com/morrowind/mods/48251) **MAYBE obsolete with NGC #15*
+16. Next Generation Combat (https://www.nexusmods.com/morrowind/mods/46993) **May make some other mods affecting armor/weapon stats redundant*
+17. MAB0's manipulated (https://www.nexusmods.com/morrowind/mods/47222)
 
 ## Optional Misc:
 1. Fair Magicka Regen v2B (https://www.nexusmods.com/morrowind/mods/39350) **Obsolete with CCCP*
-2. Class Skill Limit (https://www.nexusmods.com/morrowind/mods/48989)
+2. Faction Service (https://www.nexusmods.com/morrowind/mods/45196)
 3. Class Conscious (https://www.nexusmods.com/morrowind/mods/46902) **Complements CCCP*
-4. Better Governing Attributes (https://www.nexusmods.com/morrowind/mods/43017)
+4. Spellscribe (https://www.nexusmods.com/morrowind/mods/52809)
 5. Speed and Stamina (https://www.nexusmods.com/morrowind/mods/42190) **Feels really OP* OR Run Faster - Faster Running Speed (https://www.nexusmods.com/morrowind/mods/42796)
 6. Better Fatigue Usage (https://www.nexusmods.com/morrowind/mods/43036)
-7. Speechcraft Rebalance (https://www.nexusmods.com/morrowind/mods/43113)
+7. Companion Combat Communication (https://www.nexusmods.com/morrowind/mods/48752)
 8. Corpus Natives (https://www.nexusmods.com/morrowind/mods/45674?tab=files)
 9. Ghost Revenge (https://www.nexusmods.com/morrowind/mods/45674?tab=files)
 10. Quickloot (https://www.nexusmods.com/morrowind/mods/46283)
@@ -221,25 +229,20 @@ IF you want more or less stable fps in the modded settlements, I strongly advise
 12. Bed Buddies (https://www.nexusmods.com/morrowind/mods/46632)
 13. Realistic Repair (https://www.nexusmods.com/morrowind/mods/46673)
 14. Realistic Repair Add-on (https://www.nexusmods.com/morrowind/mods/47461)
-15. Marksman Rebalanced (https://www.nexusmods.com/morrowind/mods/46715)
-16. Nimble Armor (https://www.nexusmods.com/morrowind/mods/48251)
+15. Immersive Alcohol (https://www.nexusmods.com/morrowind/mods/45589)
+16. No More Friendly Fire (https://www.nexusmods.com/morrowind/mods/48801)
 17. Personal Effects (https://www.nexusmods.com/morrowind/mods/45338)
 18. Tooltips Complete (https://www.nexusmods.com/morrowind/mods/46842)
 19. Silt Strider Animation Restored (https://www.nexusmods.com/morrowind/mods/44150)
 20. Book Worm (https://www.nexusmods.com/morrowind/mods/46851)
 21. Travel Tooltips (https://www.nexusmods.com/morrowind/mods/48306)
 22. Shrine Tooltips (https://www.nexusmods.com/morrowind/mods/48275)
-23. MWSE Clock Block (https://www.nexusmods.com/morrowind/mods/46292)
+23. Mass Cure (https://www.nexusmods.com/morrowind/mods/49615)
 24. Kezyma's UI Remastered (https://www.nexusmods.com/morrowind/mods/48987)
 25. Ownership Indicator (https://www.nexusmods.com/morrowind/mods/45940)
-26. Spellscribe (https://www.nexusmods.com/morrowind/mods/52809)
-27. Next Generation Combat (https://www.nexusmods.com/morrowind/mods/46993) **May (probably will) not work with some other mods affecting armor/weapon stats*
-28. More Detailed Companion HealthBars MWSE Lua Script (https://www.nexusmods.com/morrowind/mods/51389)
-29. Companion Combat Communication (https://www.nexusmods.com/morrowind/mods/48752)
-30. Faction Service (https://www.nexusmods.com/morrowind/mods/45196)
-31. Mass Cure (https://www.nexusmods.com/morrowind/mods/49615)
-32. No More Friendly Fire (https://www.nexusmods.com/morrowind/mods/48801)
-33. Immersive Alcohol (https://www.nexusmods.com/morrowind/mods/45589)
+26. More Detailed Companion HealthBars MWSE Lua Script (https://www.nexusmods.com/morrowind/mods/51389)
+27. Passing Time While Reading - MWSE Lua version (https://www.nexusmods.com/morrowind/mods/48059)
+28. Time Consumer (https://www.nexusmods.com/morrowind/mods/51396)
 
 ## Graphics / Shaders (IF you still want this):
 1. MGE XE Watercolor Shader (https://www.nexusmods.com/morrowind/mods/49473)
