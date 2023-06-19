@@ -49,7 +49,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 31. Magical Missions (https://www.nexusmods.com/morrowind/mods/38773)
 32. Mage Robes (https://www.nexusmods.com/morrowind/mods/45739)
 33. Repopulated Morrowind (https://www.nexusmods.com/morrowind/mods/51174)
-34. Friends and Frens (https://www.nexusmods.com/morrowind/mods/52763) **Is still being worked on, so there may be some errors ocurring due to some textures not found*
+34. Friends and Frens (https://www.nexusmods.com/morrowind/mods/52763) **Is still being worked on, so there may be some errors ocurring due to some textures not found, specifically hair textures*
 35. Taddeus' Foods of Tamriel (https://www.nexusmods.com/morrowind/mods/49388)
 36. Lucky Coins (https://www.nexusmods.com/morrowind/mods/44324)
 37. The Assassin's Arsenal (https://www.nexusmods.com/morrowind/mods/49746)
@@ -158,7 +158,7 @@ IF you want more or less stable fps in the modded settlements, I strongly advise
 36. Molag Mar (https://www.nexusmods.com/morrowind/mods/49005)
 37. Hla Oad (https://www.nexusmods.com/morrowind/mods/49035)
 38. Redoran Council Overhall (https://www.nexusmods.com/morrowind/mods/49817)
-39. Stav's Boxes - Gnisis Minaret (https://www.nexusmods.com/morrowind/mods/43237)
+39. Stav's Boxes - Gnisis Minaret (https://www.nexusmods.com/morrowind/mods/43237) **Probably will cause an error when entering Gnisis Temple, but it's not gamebreaking*
 40. Hlaalu Council Manor Overhaul (https://www.nexusmods.com/morrowind/mods/50164)
 
 ## Quests:
