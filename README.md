@@ -161,6 +161,7 @@ IF you want more or less stable fps in the modded settlements, I strongly advise
 38. Redoran Council Overhall (https://www.nexusmods.com/morrowind/mods/49817)
 39. Stav's Boxes - Gnisis Minaret (https://www.nexusmods.com/morrowind/mods/43237) **Probably will cause an error when entering Gnisis Temple, but it's not gamebreaking*
 40. Hlaalu Council Manor Overhaul (https://www.nexusmods.com/morrowind/mods/50164)
+41. Tel Uvirith LITE (https://www.nexusmods.com/morrowind/mods/45615)
 
 ## Quests:
 1. Rise of House Telvanni (https://www.nexusmods.com/morrowind/mods/27545)
