@@ -256,6 +256,7 @@ IF you want more or less stable fps in the modded settlements, I strongly advise
 29. Time Consumer (https://www.nexusmods.com/morrowind/mods/51396)
 30. Effects Timers - MWSE (https://www.nexusmods.com/morrowind/mods/51787)
 31. Big Icons (https://www.nexusmods.com/morrowind/mods/49662)
+32. Seph's Inventory Decorator (https://www.nexusmods.com/morrowind/mods/50582)
 
 ## Graphics / Shaders (IF you still want this):
 1. MGE XE Watercolor Shader (https://www.nexusmods.com/morrowind/mods/49473)
