@@ -254,6 +254,8 @@ IF you want more or less stable fps in the modded settlements, I strongly advise
 27. More Detailed Companion HealthBars MWSE Lua Script (https://www.nexusmods.com/morrowind/mods/51389)
 28. Passing Time While Reading - MWSE Lua version (https://www.nexusmods.com/morrowind/mods/48059)
 29. Time Consumer (https://www.nexusmods.com/morrowind/mods/51396)
+30. Effects Timers - MWSE (https://www.nexusmods.com/morrowind/mods/51787)
+31. Big Icons (https://www.nexusmods.com/morrowind/mods/49662)
 
 ## Graphics / Shaders (IF you still want this):
 1. MGE XE Watercolor Shader (https://www.nexusmods.com/morrowind/mods/49473)
