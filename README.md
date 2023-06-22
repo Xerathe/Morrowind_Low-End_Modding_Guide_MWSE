@@ -115,6 +115,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 97. Perfect Placement (https://www.nexusmods.com/morrowind/mods/46562)
 98. Smart Companions (https://www.nexusmods.com/morrowind/mods/49848)
 99. Right Click Menu Exit (https://www.nexusmods.com/morrowind/mods/48458)
+100. Miscast Enhanced (https://www.nexusmods.com/morrowind/mods/47948)
 
 ## Big Mesh Changes / Additions:
 IF you experience any terrain issues, like clipping, place the .esp/.esm at the end of load order (but before the Mashed List))
@@ -257,6 +258,7 @@ IF you want more or less stable fps in the modded settlements, I strongly advise
 30. Effects Timers - MWSE (https://www.nexusmods.com/morrowind/mods/51787)
 31. Big Icons (https://www.nexusmods.com/morrowind/mods/49662)
 32. Seph's Inventory Decorator (https://www.nexusmods.com/morrowind/mods/50582)
+33. Customizable MWSE Multi Mark and Harder Recall (https://www.nexusmods.com/morrowind/mods/47065)
 
 ## Graphics / Shaders (IF you still want this):
 1. MGE XE Watercolor Shader (https://www.nexusmods.com/morrowind/mods/49473)
