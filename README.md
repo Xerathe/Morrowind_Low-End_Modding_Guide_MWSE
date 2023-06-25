@@ -272,9 +272,9 @@ IF you want more or less stable fps in the modded settlements, I strongly advise
 31. Big Icons (https://www.nexusmods.com/morrowind/mods/49662)
 32. Seph's Inventory Decorator (https://www.nexusmods.com/morrowind/mods/50582)
 33. Customizable MWSE Multi Mark and Harder Recall (https://www.nexusmods.com/morrowind/mods/47065)
-34. Boats (https://www.nexusmods.com/morrowind/mods/42270)
+34. Boats (https://www.nexusmods.com/morrowind/mods/42270) **Not compatible with some settlements overhauls, like Seyda Neen (Big Mesh Changes #26)*
 35. QuickKeys Hotbar - MWSE (https://www.nexusmods.com/morrowind/mods/51192)
-36. Better Chargen (https://www.nexusmods.com/morrowind/mods/43995)
+36. Better Chargen (https://www.nexusmods.com/morrowind/mods/43995) **Probably not compatible with Personal Effects (#18)*
 
 ## Graphics / Shaders (IF you still want this):
 1. MGE XE Watercolor Shader (https://www.nexusmods.com/morrowind/mods/49473)
