@@ -55,7 +55,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 37. The Assassin's Arsenal (https://www.nexusmods.com/morrowind/mods/49746)
 38. H.E.L.L.U.V.A armours only (https://www.nexusmods.com/morrowind/mods/47573)
 39. Shinies (https://www.nexusmods.com/morrowind/mods/48903)
-40. Advanced Alchemy (https://www.nexusmods.com/morrowind/mods/32628) **May be obsolete with Poison Crafting (#57)*
+40. Apoapse's Alchemy (https://www.nexusmods.com/morrowind/mods/45532)
 41. Skills Module (https://www.nexusmods.com/morrowind/mods/46034)
 42. The Crafting Framework (https://www.nexusmods.com/morrowind/mods/51009)
 43. Map and Compass (https://www.nexusmods.com/morrowind/mods/48455) AND Map Replacements for Maps and Compass Wagner Style - Brujoloco Edition (https://www.nexusmods.com/morrowind/mods/48460)
@@ -205,6 +205,7 @@ IF you want more or less stable fps in the modded settlements, I strongly advise
 19. Immersive Madness (https://www.nexusmods.com/morrowind/mods/44983)
 20. Illuminated Order (https://www.nexusmods.com/morrowind/mods/42658)
 21. Main Quest Overhaul (https://www.nexusmods.com/morrowind/mods/46913)
+22. Mudcrab Imports (https://www.nexusmods.com/morrowind/mods/49463)
 
 ## Character Progression (CHOOSE ONE):
 1. Class-Conscious Character Progression (CCCP) (https://www.nexusmods.com/morrowind/mods/48110)
@@ -275,6 +276,8 @@ IF you want more or less stable fps in the modded settlements, I strongly advise
 34. Boats (https://www.nexusmods.com/morrowind/mods/42270) **Not compatible with some settlements overhauls, like Seyda Neen (Big Mesh Changes #26)*
 35. QuickKeys Hotbar - MWSE (https://www.nexusmods.com/morrowind/mods/51192)
 36. Better Chargen (https://www.nexusmods.com/morrowind/mods/43995) **Probably not compatible with Personal Effects (#18)*
+37. Killing Spree Helluva ways to kill (https://www.nexusmods.com/morrowind/mods/49668)
+38. Morrowind Trading Cards (https://www.nexusmods.com/morrowind/mods/43202)
 
 ## Graphics / Shaders (IF you still want this):
 1. MGE XE Watercolor Shader (https://www.nexusmods.com/morrowind/mods/49473)
