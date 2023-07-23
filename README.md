@@ -3,7 +3,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 
 ### My laptop specs:
 - Intel Core i3-6006U 2GHz
-- Intel HD Graphics 520 (Skylake-U GT2f) 1Gb VRAM (don't know why it says 1Gb though, as it more likely to be around 128Mb)
+- Intel HD Graphics 520 (Skylake-U GT2f) 1Gb VRAM
 - 20Gb RAM
 
 ### Instructions:
