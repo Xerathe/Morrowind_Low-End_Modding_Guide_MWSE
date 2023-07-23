@@ -232,8 +232,8 @@ IF you want more or less stable fps in the modded settlements, I strongly advise
 11. Talking Matters (Speechcraft overhaul) (https://www.nexusmods.com/morrowind/mods/49089)
 12. Class Skill Limit (https://www.nexusmods.com/morrowind/mods/48989)
 13. Better Governing Attributes (https://www.nexusmods.com/morrowind/mods/43017)
-14. Marksman Rebalanced (https://www.nexusmods.com/morrowind/mods/46715) **Obsolete with NGC #15*
-15. Nimble Armor (https://www.nexusmods.com/morrowind/mods/48251) **MAYBE obsolete with NGC #15*
+14. Marksman Rebalanced (https://www.nexusmods.com/morrowind/mods/46715) **Obsolete with NGC #16*
+15. Nimble Armor (https://www.nexusmods.com/morrowind/mods/48251) **MAYBE obsolete with NGC #16*
 16. Next Generation Combat (https://www.nexusmods.com/morrowind/mods/46993) **May make some other mods affecting armor/weapon stats redundant*
 17. MAB0's manipulated (https://www.nexusmods.com/morrowind/mods/47222)
 18. Controlled Consumption (https://www.nexusmods.com/morrowind/mods/45624)
