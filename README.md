@@ -142,7 +142,7 @@ IF you want more or less stable fps in the modded settlements, I strongly advise
 11. Ald'ruhn (https://www.nexusmods.com/morrowind/mods/50120)
 12. Balmora Expansion Improved (https://www.nexusmods.com/morrowind/mods/44659)
 13. Balmora Underworld (https://www.nexusmods.com/morrowind/mods/42448?tab=description) **You may want to do some tweaking with hatch positions in Balmora Cell in the Construction Set due to the additions from Main Quest Enchancers (Quests #9)*
-14. Austere Caldera Enhancement (https://www.nexusmods.com/morrowind/mods/52590) ***Not available for now*** OR Caldera (https://www.nexusmods.com/morrowind/mods/50314)
+14. Caldera (https://www.nexusmods.com/morrowind/mods/50314)
 15. Caldera Mine Expanded (https://www.nexusmods.com/morrowind/mods/45194)
 16. Nordic Dagon Fel (https://www.nexusmods.com/morrowind/mods/49603)
 17. A new Windmill for Pelagiad (https://www.nexusmods.com/morrowind/mods/50316)
