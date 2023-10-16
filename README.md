@@ -90,7 +90,7 @@ A kitchen sink modpack for Morrowind with all the necessary links to Nexus Mods.
 72. Great Service (https://www.nexusmods.com/morrowind/mods/47767)
 73. The Publicans (https://www.nexusmods.com/morrowind/mods/45410)
 74. HD Concept-art splash screen and main menu (https://www.nexusmods.com/morrowind/mods/43081) OR Lovely Loading Screens (https://www.nexusmods.com/morrowind/mods/42313) OR Morrowloading (https://www.nexusmods.com/morrowind/mods/44364)
-75. Water Life (https://www.nexusmods.com/morrowind/mods/42417?tab=files&file_id=1000026538&nmm=1)
+75. Water Life (https://www.nexusmods.com/morrowind/mods/42417)
 76. Privileges And Services (https://www.nexusmods.com/morrowind/mods/50403)
 77. Antares' Privileges and Services - No Team Jackets and compatibility with clothing mods (https://www.nexusmods.com/morrowind/mods/50412)
 78. The Blight (https://www.nexusmods.com/morrowind/mods/49504)
